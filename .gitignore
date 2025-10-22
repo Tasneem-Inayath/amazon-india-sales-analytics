@@ -1,0 +1,8 @@
+# Ignore large files
+datasets/cleaned_datasets/amazon_master_2015_2025.csv
+star_schema_tables/transactions.csv
+
+# Ignore virtual environment and editor settings
+.venv/
+.vscode/
+__pycache__/
