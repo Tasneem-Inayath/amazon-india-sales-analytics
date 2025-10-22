@@ -110,6 +110,10 @@ Amazon-India-Sales-Analytics/
 - Expansion to **multi-country** sales analysis  
 
 ---
+### 📂 External Datasets
+
+- [Amazon Master Dataset (2015–2025)]([https://drive.google.com/your-link](https://drive.google.com/file/d/17N5dL9_J5M1wVVbftz0dD4tWbBtKAl0P/view?usp=drive_link))
+- [Transactions Table]([https://drive.google.com/your-link](https://drive.google.com/file/d/1Xp0d0qxsGj_wqxgrPMH2jYLpISYf4TGk/view?usp=drive_link))
 
 ## 📬 Contact
 
