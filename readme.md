@@ -18,6 +18,7 @@ Future integration with **Streamlit** will enable web-based access, making the d
 - **Customer Insights**
   - New vs returning customers
   - Retention rate and purchase behavior
+![description](https://github.com/Tasneem-Inayath/amazon-india-sales-analytics/tree/8da5b84ccab0b062c8446ce410ec31017cd7ba78/EDA/eda_results/discount_analysis)
 
 - **Order & Fulfillment Metrics**
   - Order volume, delivery performance, returns & cancellations
